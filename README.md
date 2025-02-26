@@ -1,4 +1,4 @@
-# trip_description_collector
+TripDescriptionCollector
 ![img.png](img.png)
 
 ## 프로젝트 개요
